@@ -5,7 +5,10 @@
 
 
 body{
-	background-image: url("");
+    background: url(pictures/crossover.jpg);
+    background-repeat: no-repeat;
+    background-size: 2400px 1600px;
+	background-image:url(pictures/crossover.jpg);
 	background-position: center;
 }
 #container{
